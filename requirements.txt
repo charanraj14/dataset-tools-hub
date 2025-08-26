@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+torch
+pandas
+numpy
+Pillow
+PyYAML
+ultralytics
+python-docx
+openpyxl
+reportlab
+pypandoc
+odfpy
